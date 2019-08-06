@@ -6,3 +6,7 @@ color: purple;
   font-family:castellar
     text-align:center;
 }
+#picture {
+  float: centre;
+  padding: 0px 20px 0px 20px;
+}
